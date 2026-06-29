@@ -6,11 +6,11 @@ date: 2026-06-29
 keywords: quantum computing, quantum information theory
 published: true
 ---
-We can write any quantum state $\ket{\varphi}$ as
+We can write any quantum state {% katexmm %}$\ket{\varphi}${% endkatexmm %} as
 $$
 \ket{\varphi} = \cos\left( \frac{\theta}{2} \right)\ket{0} + e^{i \varphi}\sin\left( \frac{\theta}{2} \right)\ket{1}  
 $$
-where $0 \leq \theta \leq \pi$ and $0 \leq \varphi \lt 2\pi$
+where {% endkatexmm %}$0 \leq \theta \leq \pi${% endkatexmm %} and {% endkatexmm %}$0 \leq \varphi \lt 2\pi${% endkatexmm %}
 
 
 Here are some words. And this is some math:
