@@ -4,7 +4,7 @@ subtitle: I try to explain how one can represent a quantum state in a way that i
 layout: default
 date: 2026-06-29
 keywords: quantum computing, quantum information theory
-published: false
+published: true
 ---
 We can write any quantum state $\ket{\varphi}$ as
 $$
