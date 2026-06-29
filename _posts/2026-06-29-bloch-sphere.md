@@ -28,9 +28,9 @@ $$
 \alpha, \beta \in \mathbb{C}
 $${% endkatexmm %}
 
-Already it can be quite troublesome trying to visualise what a qubit state might look like, or where its position might be. When we usually take a linear combination of two orthogonal vectors, we have an object with two degrees of freedom, but here, we scale our basis states with constants {% katexmm %}$\alpha${% endkatexmm %} and { %katexmm %}$\beta${% endkatexmm %} which live in the realm of complex numbers, which they themselves have two degrees of freedom. In total, we have a quantum state which takes on 4 degrees of freedom. 
+Already it can be quite troublesome trying to visualise what a qubit state might look like, or where its position might be. When we usually take a linear combination of two orthogonal vectors, we have an object with two degrees of freedom, but here, we scale our basis states with constants {% katexmm %}$\alpha${% endkatexmm %} and {% katexmm %}$\beta${% endkatexmm %} which live in the realm of complex numbers, which they themselves have two degrees of freedom. In total, we have a quantum state which takes on 4 degrees of freedom. 
 
-blah
+
 
 We can write any qubit {% katexmm %}$\ket{\psi}${% endkatexmm %} as
 $$
