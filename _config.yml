@@ -8,6 +8,10 @@ plugins:
   - jekyll-feed
   - jekyll-katex
 katex:
+  macros:
+    "\\ket": "\\left|#1\\right\\rangle"
+    "\\bra": "\\left\\langle#1\\right|"
+    "\\braket": "\\left\\langle#1\\middle|#2\\right\\rangle"
   js_path: "assets"  # Path used to search for katex.min.js
   rendering_options:
     # Default KaTeX rendering options. See https://github.com/Khan/KaTeX#rendering-options
