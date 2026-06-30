@@ -4,7 +4,7 @@ subtitle: I try to explain how one can represent a quantum state (specifically, 
 layout: default
 date: 2026-06-29
 keywords: quantum computing, quantum information theory
-published: true
+published: false
 ---
 I've started a project recently that's going to involve a good amount of quantum computing, which naturally requires a good understanding of the basics. One of the concepts that I found really difficult to understand when trying to learn the basics of QC was the idea of the Bloch Sphere, which is a way of visualising the characteristics of a qubit using a polar coordinates system. Here, I'll try to outline the way a qubit state is changed from its basic "cartesian" form to its "polar", and discuss some things that left me puzzled for a little while.
 
